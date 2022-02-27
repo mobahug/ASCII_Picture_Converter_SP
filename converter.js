@@ -1,5 +1,9 @@
-//const density = 'Ñ@#W$9876543210?!abc;:+=-,._                   ';
-const density = '         .:-i|=+%O#@'
+//const density = 'Ñ@#W$9876543210?!abc;:+=-,._                              ';
+//const density = '.:-i|=+cvunxrjft$%O#@';
+const density = '@#O%+=|i-:.            ';
+//const density =  '         .:░▒▓█';
+//const density = '$@B*oahf-_+~;:, ';
+//const density = '         .:-i|=+%O#@'
 
 let video;
 let asciiDiv;
