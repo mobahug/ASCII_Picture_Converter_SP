@@ -1,4 +1,4 @@
-# ASCII_picture_converter
+# ASCII_vide_converter
 
 In this small fun side-project I was practicing with JavaScript to convert my RGB color shades on live video to ASCII characters.
 
